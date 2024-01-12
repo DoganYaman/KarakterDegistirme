@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\refint\karakter-degistirme.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-degistirme\obj\Debug\net5.0\ref\karakter-degistirme.dll
